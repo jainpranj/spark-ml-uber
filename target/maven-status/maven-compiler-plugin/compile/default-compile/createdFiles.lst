@@ -1,0 +1,5 @@
+com/streamskafka/uber/MsgConsumer.class
+com/streamskafka/uber/MsgProducer.class
+com/mapr/demo/producer/DataGenerator.class
+com/mapr/demo/Main.class
+com/mapr/demo/WebServer.class
